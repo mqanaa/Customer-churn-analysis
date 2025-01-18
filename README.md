@@ -11,7 +11,6 @@ This project investigates customer churn for a telecommunications company using 
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
-- [License](#license)
 
 ## Motivation
 Customer churn has a significant impact on profitability in the telecommunications industry. Understanding and predicting customer churn allows businesses to take proactive steps to retain customers. This project aims to analyze customer data, identify key drivers of churn, and build predictive models to enhance decision-making.
